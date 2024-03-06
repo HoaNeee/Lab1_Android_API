@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240410422317",
+    "project_id": "project-demo3-a4170",
+    "storage_bucket": "project-demo3-a4170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240410422317:android:1301657a6d339ffdfa9ca4",
+        "android_client_info": {
+          "package_name": "com.hoanhph29102.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Q2TmiBqEKg69n-jKDzWTrbNHjYGoW-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
